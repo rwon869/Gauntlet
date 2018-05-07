@@ -1,5 +1,5 @@
 # Gauntlet
-QEA project 3: traverse the Gauntlet
+## QEA project 3: traverse the Gauntlet
 
 descent.m is the file we used for challenge 2
 
